@@ -57,3 +57,6 @@ npm run dev
 
 ![WeatherVibe Screenshot](./public/screenshot.png)
 
+---
+
+### Made with ☀️ and ☕ by [Neeraj Rao](https://github.com/neerajrao23)
